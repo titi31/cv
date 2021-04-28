@@ -1,0 +1,151 @@
+body{
+	background-color: white;
+}
+#principale{
+	display: block;
+	margin-top: -750px;
+	margin-left: 100px;
+}
+#barre{
+	width:30px;
+	height:750px;
+	background:orange;
+}
+.infos{
+	display: block;
+	width: 100%;
+}
+.navbar-brand{
+	display: flex;
+	flex-direction: column;
+
+}
+#info{
+	display: flex;
+	color:white;
+	margin-left: -2000px;
+	margin-top: -10px;
+}
+#nom{
+	display: flex;
+	flex-direction: column;
+	margin-top: -80px;
+	margin-left:-1000px;
+	color: white;
+}
+
+#i{
+	width: 1500px;
+	Point2D center1,Point2D center2,
+	display: flex;
+
+	justify-content: center;
+
+}
+.personnelle
+{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+/*#langue{
+	width: 30px;
+}
+*/
+h2{
+	text-decoration: underline;
+	
+}
+#h{
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	background-color: green;
+
+}
+h1{
+	color: white;
+}
+img{
+	width: auto;
+	height:150px;
+	width:150px;
+	 
+
+	
+}
+
+.connaissance img{
+	width:70px;
+	height:70px;
+	border-radius: 50%;
+	max-height: 100%;
+	max-width: 100%;
+	flex-wrap: wrap;
+}
+.lien{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+
+}
+a
+{
+	margin-left: 10px;
+	flex-wrap: wrap;
+}
+.fleche{
+	width: 20px;
+	height:20px;
+}
+.navbar{
+	background-color: black;
+}
+#fms{
+	display: block;
+	margin-left: -550px;
+	margin-top: 30px;
+}
+#velcome{
+	display: block;
+	margin-top:110px;
+	margin-left: -200px;
+}
+#form{
+	list-style-image: url(https://img.icons8.com/office/16/000000/blog.png);
+}
+.prog{
+	list-style-image: url(https://img.icons8.com/windows/32/000000/outline.png);
+}
+#reunion {
+	list-style-type:none;
+	margin-left: -30px;
+	
+}
+#reunion:before{
+	content:"→ ";
+}
+#git{
+	list-style-image: url(https://img.icons8.com/windows/32/000000/under-computer.png);
+}
+#bdd{
+	list-style-image: url(https://img.icons8.com/ios/50/000000/cloud-storage.png);
+}
+#loin{
+	color:white;
+	background-color: black;
+	width: 1500px;
+	padding-left: 50px;
+	margin-left: -100px;
+	margin-top: -10px;
+}
+a{
+	color: white;
+}
+
+
